@@ -1,0 +1,29 @@
+h1 {
+    font-size: 40px;
+}
+
+/* Persistent header */
+header {
+    position: sticky;
+    top: 0;
+    background-color: #333;
+    padding: 10px;
+    z-index: 999;
+  }
+  
+  /* Header links */
+  header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header nav ul li {
+    display: inline-block;
+  }
+  
+  header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
