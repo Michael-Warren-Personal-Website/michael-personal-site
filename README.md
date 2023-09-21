@@ -1,3 +1,5 @@
 # michael-personal-site
 
-Curious
+Curious, ____, _____
+
+(Detailed README to be added soon!)
