@@ -1,3 +1,8 @@
-const message = "Hello World!";
+function submitForm() {
+    window.location = "submission.html";
+}
 
-console.log(message);
+// with arrow function syntax
+/* const submitForm = () => {
+    window.location = "submission.html";
+  }; */
